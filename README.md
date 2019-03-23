@@ -1,3 +1,3 @@
-# resume
+# Resume-Template
 
-Collection of resumes in different formats.
+Resume and Cover letter with consistent formatting
