@@ -1,2 +1,3 @@
-# Resume-Template
-Latex Resume Template
+# resume
+
+Collection of resumes in different formats.
